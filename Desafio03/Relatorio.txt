@@ -1,0 +1,5 @@
+1.Organizar o script de inserção dos dados nas tabelas.
+2. remoção de dados não utilizados.
+3. separar os endereços.
+4. mesclar tabelas employee e departament usando o id do departamento.
+
