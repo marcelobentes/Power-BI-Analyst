@@ -2,4 +2,5 @@
 2. remoção de dados não utilizados.
 3. separar os endereços.
 4. mesclar tabelas employee e departament usando o id do departamento.
-
+5. unificado os nomes.
+6. foi utilizado o mesclar em vez do incluir, por causa do Dnumber que se duplica.
